@@ -1,0 +1,148 @@
+body{
+	border: 1px solid #f2f2f2;
+	background: #f3eee4;
+	width: 630px;
+	height: 590px;
+}
+.header{
+	
+}
+.avatar{
+	float: left;
+	margin-top:10px; 
+}
+.avatar img{
+	margin-left: 5px
+}
+.boot button{
+	width: 70px;
+	height: 70px;
+	background-color: #ff7e6a;
+	border-radius: 10px;
+	outline: none;
+
+	margin-top: -1px; 
+}
+.boot input{
+	width: 200px;
+	height: 70px;
+	background-color: #43bb89;
+	border-radius: 10px;
+	color: #fff;
+	font-family: "ProximaNova-Bold";
+	font-size: 24px;
+	font-weight: bold;
+	outline: none;
+	margin-left: 10px;
+	float: right;
+}
+.boot{
+	float: right;
+	margin: 15px 10px 0 0;
+	height: 70px;
+}
+.block{
+	background: url(images/background.png);
+	width: 630px;
+	height: 380px;
+	margin-top: 100px;
+}
+.block img{
+	margin: 20px 0 0 170px;
+}
+.block form{
+	margin: -25px 0 0 0;
+}
+.block input{
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #43bb89;
+	color: #fff;
+	font-family: "ProximaNova-Semibold";
+	font-size: 14px;
+	font-weight: bold;
+	outline: none;
+	margin:-10px 0 0 245px;
+	height: 30px;
+	width: 100px
+}
+.block h1{
+	color: #fff;
+	font-family: "ProximaNova-Light";
+	font-size: 50px;
+	margin: 0 0 0 160px;
+}
+.block p{
+	color: #fff;
+	font-family: "ProximaNova-Light";
+	font-size: 20px;
+	margin: 0 0 0 200px;
+}
+footer{
+	width: 630px;
+	height: 110px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #fff;
+}
+.footer-block,
+.footer-block2{
+	height: 80px;
+	width: 90px;
+	border-right:1px solid #f3eee4;
+	float: left;
+	margin:15px 0 0 25px;
+}
+.footer-block h2{
+	color: #433d3b;
+	font-family: "ProximaNova-Regular";
+	font-size: 55px;
+	float: left;
+	margin: 10px 0 0 20px
+}
+.footer-block img{
+	float:left;
+	margin: 65px 0 0 -25px;
+}	
+.footer-block2 h2{
+	color: #433d3b;
+	font-family: "ProximaNova-Regular";
+	font-size: 55px;
+	margin-top: 10px;
+}
+.footer-block2 span{
+	margin: -55px 0 0 30px;
+	float: left;
+	color: #433d3b;
+	font-family: "ProximaNova-Regular";
+	font-size: 18px
+}
+.footer-block3{
+	float: left;
+	margin:25px 0 0 25px;
+	height: 80px;
+	width: 300px;
+}
+.footer-block3 span{
+	font-size: 55px;
+	float: left;
+	margin-left:-5px;
+	display: block;
+	padding-right:5px 
+}
+.footer-block3 p{
+	color: #433d3b;
+	font-family: "ProximaNova-Light";
+	font-size: 27px;
+	float:right;
+	margin: -60px 0 0 25px;
+
+}
